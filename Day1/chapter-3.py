@@ -23,3 +23,15 @@
 # print(a.replace("  "," "))
 
 a = "Dear harry,\nthis python course is nice,\nThanks!"
+
+# b = "Hello world"
+# print(b.endswith("Hello"))
+
+# print(b.split())
+
+c = ["hello","world"]
+print(" ".join(c))
+
+s = "42"
+s = s.zfill(5)  # "00042"
+print(s)
